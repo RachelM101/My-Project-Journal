@@ -1,0 +1,21 @@
+
+h1 {
+
+ width: 100;
+ font-display: rgb(10, 10, 10) ;
+ color: white
+}
+h2 {
+color: white;
+}
+
+p{
+ color : white ;   
+}
+
+body{
+    background-image: url(galaxy\ image.jpg)  ; 
+     background-size: cover ; 
+     background-repeat: no-repeat; 
+     
+}
