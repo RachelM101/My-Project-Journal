@@ -3,10 +3,10 @@ h1 {
 
  width: 100;
  font-display: rgb(10, 10, 10) ;
- color: white
+ color: rgb(250, 250, 250)
 }
 h2 {
-color: white;
+color: rgb(253, 247, 247);
 }
 
 p{
@@ -17,5 +17,38 @@ body{
     background-image: url(galaxy\ image.jpg)  ; 
      background-size: cover ; 
      background-repeat: no-repeat; 
-     
+    min-width: 100%;
+}
+.navbar-left {
+    float: left;
+    color: #f1ecec;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+ .navbar-right{
+  position: absolute;
+  top: 20px; 
+  right: 20px ;
+  justify-content: space-between;
+  height: 70px;     
+  align-items: center;
+  padding: 14px 16px ; 
+  display: flex ; 
+  color: white ; 
+  font-size : 20px ;
+ }
+ 
+ a{
+    color: white ; 
+ }
+ .nav {
+    background-color: rgba(34, 33, 33, 0);
+    align-items: center;
+ }
+.nav-logo {
+    color : white ;
+    font-size : 15px ;
+    align-items: center;
 }
