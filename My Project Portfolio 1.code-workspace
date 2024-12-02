@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "HTML Crashcourse_Code",
+			"path": "."
+		},
+		{
+			"name": "Project Assets",
+			"path": "../Project Assets"
+		},
+		{
+			"name": "HTML Practise Assets",
+			"path": "../../Downloads/HTML Practise Assets-20241122T013957Z-001/HTML Practise Assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML Crashcourse_Code"
+	}
+}
