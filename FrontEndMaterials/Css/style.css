@@ -14,7 +14,7 @@ p{
 }
 
 body{
-    background-image: url(galaxy\ image.jpg)  ; 
+    background-image: url(/FrontEndMaterials/Images/galaxy\ image.jpg)  ; 
      background-size: cover ; 
      background-repeat: no-repeat; 
     min-width: 100%;
